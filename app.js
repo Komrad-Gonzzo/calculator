@@ -8,3 +8,5 @@ const action = ['-','+','X','/'];
 
 //экран калькулятора
 const out = document.querySelektor('.calk-screen p');
+  
+
