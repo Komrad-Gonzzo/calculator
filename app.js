@@ -9,4 +9,12 @@ const action = ['-','+','X','/'];
 //экран калькулятора
 const out = document.querySelektor('.calk-screen p');
   
+function clearAll () {
+    a = '';//first number
+    b = '';//secont number
+    sign = '';//знак операции
+    finish = false;
+    out.textContent -0
+}
 
+document.querySelector('.ac').onclick = clearAll;
