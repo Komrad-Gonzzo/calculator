@@ -23,6 +23,6 @@ document.querySelector('.button').onclick = (event) => {
     
 };
 
-
+document.querySelector('.ac').onclick = clearAll;
 
 
